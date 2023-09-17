@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "ES2022",
+      "DOM.Iterable",
+      "DOM"
+    ],
+    "module": "esnext",
+    "target": "esnext",
+    "moduleResolution": "node",
+    "allowJs": true,
+    "types": [
+      "bun-types"
+    ]
+  }
+}
